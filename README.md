@@ -34,7 +34,7 @@ Step 3. Download Webstorm
 
 Step 4. Connecting Git to Webstorm using your Github account:
    
-   a. Go to Webstorm and select System Preferences or Settings
+    a. Go to Webstorm and select System Preferences or Settings
     
     b. Go to Version control and select Github
     
